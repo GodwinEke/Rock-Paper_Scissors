@@ -1,7 +1,7 @@
 # Rock-Paper_Scissors
 ## Contributor: Godwin C. Eke
 
-#General Information
+# General Information
 ================================================================================================
 - Code was written in python 3.8.8
 - A personal project :wink: I made to consolidate Python algorithmic functions in a creative way.
