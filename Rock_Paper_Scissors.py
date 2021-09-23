@@ -51,7 +51,7 @@ def R_P_S_Game ():
             
     #Overall Winner
     if len(user_win)>len(comp_win):
-        print("COngratulations!! You won me.I won {} times out of three times". format(len(user_win)))
+        print("COngratulations!! You won me. You won {} times out of three times". format(len(user_win)))
     else:
         print(" \nHa ha ha!! I win!! I won {} times out of three times". format(len(comp_win)))
        
